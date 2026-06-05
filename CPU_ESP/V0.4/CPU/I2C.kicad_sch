@@ -3398,6 +3398,46 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "I2C ADRESSE : 0X48"
+		(exclude_from_sim no)
+		(at 37.338 83.058 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0ca705e7-0e55-40dd-8381-93e908334a9f")
+	)
+	(text "I2C ADRESSE : 0X20"
+		(exclude_from_sim no)
+		(at 177.8 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "29a4f7b8-58d8-4829-a589-c92025f96639")
+	)
+	(text "I2C ADRESSE : 0X70"
+		(exclude_from_sim no)
+		(at 188.722 18.034 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "66593370-a721-488e-a91a-5cf735724c5d")
+	)
+	(text "I2C ADRESSE : 0X51"
+		(exclude_from_sim no)
+		(at 55.626 29.464 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "78ba647f-8db6-404a-9679-70a875938650")
+	)
 	(text "REAL TIME CLOCK"
 		(exclude_from_sim no)
 		(at 42.418 20.828 0)
@@ -3407,6 +3447,16 @@
 			)
 		)
 		(uuid "98d8641a-2931-4b8c-8969-cc79790ba409")
+	)
+	(text "I2C ADRESSE : 0X50"
+		(exclude_from_sim no)
+		(at 256.286 72.898 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f7a61e0b-092f-434f-8569-b2ab9423b793")
 	)
 	(junction
 		(at 27.94 160.02)
@@ -9680,7 +9730,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AT24CS01-SSHM"
+		(property "Value" "24FC-1025"
 			(at 258.6833 82.55 0)
 			(effects
 				(font

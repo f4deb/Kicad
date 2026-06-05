@@ -1438,6 +1438,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "I2C ADRESSE : 0X38"
+		(exclude_from_sim no)
+		(at 135.636 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "713135fc-76ee-464a-84ff-297990cda9ab")
+	)
 	(junction
 		(at 213.36 97.79)
 		(diameter 0)
